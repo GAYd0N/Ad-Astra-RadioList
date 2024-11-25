@@ -6,11 +6,6 @@
             "name": "广东音乐之声"
         },
         {
-            "url": "https://ytcastmp3.radio.cn/63/stream_10489.mp3?type=1&key=53abc81041e063d9915de7852eb97ae4&time=67441e7b",
-            "title": "中国之声",
-            "name": "中国之声"
-        },
-        {
             "url": "https://ytcastmp3.radio.cn/75/stream_11095.mp3?type=1&key=3beb07f341aae2340ecb34ed74c698ce&time=674438b7",
             "title": "海口音乐广播",
             "name": "海口音乐广播"
@@ -26,7 +21,7 @@
             "name": "山东经典音乐广播"
         },
         {
-            "url": "https://ytcastmp3.radio.cn/63/stream_10489.mp3?type=1&key=53abc81041e063d9915de7852eb97ae4&time=67441e7b",
+            "url": "https://lhttp.qingting.fm/live/15318569/64k.mp3",
             "title": "AsiaFM亚洲音乐台",
             "name": "AsiaFM亚洲音乐台"
         },
